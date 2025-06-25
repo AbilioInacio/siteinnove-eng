@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Innove Engenharia - Engenharia Ambiental para o Campo</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- BARRA DE NAVEGAÇÃO FIXA -->
+    <header class="navbar">
+      <div class="container">
+        <a href="#home" class="logo">INNOVE Engenharia</a>
+        <nav>
+          <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#sobre">Sobre Nós</a></li>
+            <li><a href="#servicos">Serviços</a></li>
+            <li><a href="#contato">Contato</a></li>
+            <li><a href="login.html" class="login-btn">Login</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <!-- SEÇÃO HOME (TELA INICIAL) -->
+      <section id="home" class="hero">
+        <div class="hero-content">
+          <h1>Sustentabilidade e Inovação para o Campo</h1>
+          <p>
+            Soluções em engenharia ambiental que unem produtividade e respeito à
+            natureza.
+          </p>
+          <a href="#servicos" class="cta-button">Conheça Nossos Serviços</a>
+        </div>
+      </section>
+
+      <!-- SEÇÃO SOBRE NÓS -->
+      <section id="sobre">
+        <div class="container">
+          <h2>Sobre a INNOVE Engenharia</h2>
+          <div class="sobre-content">
+            <img
+              src="https://via.placeholder.com/400x300.png/2E7D32/FFFFFF?text=Nossa+Equipe"
+              alt="Equipe da INNOVE Engenharia"
+            />
+            <div>
+              <p>
+                A <strong>INNOVE Engenharia</strong> nasceu da paixão pela terra
+                e pelo desenvolvimento sustentável. Entendemos que o agronegócio
+                é o pilar do nosso país e que é possível crescer e produzir em
+                harmonia com o meio ambiente.
+              </p>
+              <p>
+                Nossa missão é oferecer consultoria e projetos de engenharia
+                ambiental personalizados para o produtor rural, garantindo a
+                conformidade com as leis ambientais, otimizando o uso de
+                recursos naturais e agregando valor à sua produção.
+              </p>
+              <p>
+                Contamos com uma equipe de especialistas prontos para analisar
+                suas necessidades e propor as melhores soluções, desde o
+                licenciamento ambiental até a gestão de resíduos e a recuperação
+                de áreas degradadas.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SEÇÃO SERVIÇOS -->
+      <section id="servicos">
+        <div class="container">
+          <h2>Nossos Serviços</h2>
+          <div class="servicos-grid">
+            <div class="servico-card">
+              <h3>Licenciamento Ambiental</h3>
+              <p>
+                Conduzimos todo o processo para obtenção e renovação de licenças
+                (LP, LI, LO), garantindo a regularidade do seu empreendimento
+                agrícola.
+              </p>
+            </div>
+            <div class="servico-card">
+              <h3>Gestão de Resíduos Sólidos</h3>
+              <p>
+                Elaboramos planos de gerenciamento para resíduos do agronegócio,
+                transformando passivos ambientais em oportunidades, como a
+                compostagem.
+              </p>
+            </div>
+            <div class="servico-card">
+              <h3>Análise de Solo e Água</h3>
+              <p>
+                Realizamos coletas e análises para diagnósticos precisos da
+                qualidade do solo e da água, fundamentais para uma produção
+                eficiente e sustentável.
+              </p>
+            </div>
+            <div class="servico-card">
+              <h3>Projetos de Irrigação</h3>
+              <p>
+                Desenvolvemos projetos de irrigação eficientes que otimizam o
+                uso da água, reduzem custos e aumentam a produtividade da
+                lavoura.
+              </p>
+            </div>
+            <div class="servico-card">
+              <h3>Cadastro Ambiental Rural (CAR)</h3>
+              <p>
+                Auxiliamos na inscrição e regularização do seu imóvel rural no
+                CAR, um registro obrigatório e essencial para o acesso a crédito
+                agrícola.
+              </p>
+            </div>
+            <div class="servico-card">
+              <h3>Recuperação de Áreas</h3>
+              <p>
+                Projetamos e executamos planos para a recuperação de Áreas de
+                Preservação Permanente (APP) e Reserva Legal (RL), adequando sua
+                propriedade à legislação.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SEÇÃO CONTATO -->
+      <section id="contato">
+        <div class="container">
+          <h2>Entre em Contato</h2>
+          <p>Tem alguma dúvida ou precisa de um orçamento? Fale conosco!</p>
+          <div class="contato-wrapper">
+            <div class="contato-info">
+              <h3>Informações de Contato</h3>
+              <p><strong>Email:</strong> contato@innove.com.br</p>
+              <p><strong>Telefone:</strong> (XX) 99999-8888</p>
+              <p>
+                <strong>Endereço:</strong> Rua da Inovação Rural, 123, Agrocity
+                - Brasil
+              </p>
+            </div>
+            <form class="contato-form">
+              <input type="text" name="nome" placeholder="Seu Nome" required />
+              <input
+                type="email"
+                name="email"
+                placeholder="Seu Melhor E-mail"
+                required
+              />
+              <textarea
+                name="mensagem"
+                rows="5"
+                placeholder="Sua Mensagem"
+                required
+              ></textarea>
+              <button type="submit" class="cta-button">Enviar Mensagem</button>
+            </form>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>© 2024 INNOVE Engenharia. Todos os direitos reservados.</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
