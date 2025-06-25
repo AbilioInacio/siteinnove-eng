@@ -137,8 +137,7 @@ section {
 /* --- SEÇÃO HOME (HERO) --- */
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../img/lindo-jardim-de-morango-e-nascer-sol-em-doi-ang-khang-chiang-mai-tailandia.jpg")
-      no-repeat center center/cover;
+    url("../img/761.jpg") no-repeat center center/cover;
   height: 100vh;
   display: flex;
   justify-content: center;
