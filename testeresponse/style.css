@@ -5,7 +5,7 @@
   --marrom-terra: #8b4513;
   --texto-escuro: #333333;
   --texto-claro: #ffffff;
-  --navbar-height: 70px;
+  --navbar-height: 80px;
 }
 
 * {
@@ -57,12 +57,7 @@ section {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: rgba(
-    46,
-    125,
-    50,
-    0.95
-  ); /* Verde com um pouco de transparência */
+  background-color: #b0c7b5;
   backdrop-filter: blur(5px);
   z-index: 1000;
   height: var(--navbar-height);
@@ -83,6 +78,13 @@ section {
   text-decoration: none;
 }
 
+.logo_menu {
+  padding-top: 5%;
+  max-height: 80px;
+  height: 95%;
+  width: auto;
+}
+
 .nav-links {
   list-style: none;
   display: flex;
@@ -93,7 +95,7 @@ section {
 }
 
 .nav-links a {
-  color: var(--texto-claro);
+  color: var(--texto-escuro);
   text-decoration: none;
   font-size: 1rem;
   padding: 5px 0;
@@ -135,7 +137,8 @@ section {
 /* --- SEÇÃO HOME (HERO) --- */
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("background.jpg") no-repeat center center/cover;
+    url("../img/lindo-jardim-de-morango-e-nascer-sol-em-doi-ang-khang-chiang-mai-tailandia.jpg")
+      no-repeat center center/cover;
   height: 100vh;
   display: flex;
   justify-content: center;
