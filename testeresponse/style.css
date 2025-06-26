@@ -248,11 +248,14 @@ footer {
 
 /* --- ESTILOS PÁGINA DE LOGIN --- */
 .login-page-body {
+  background-color: (var(--verde-escuro));
+  background-image: url(../img/134.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url(../img/134.jpg) no-repeat cover;
 }
 .login-container {
   background-color: rgba(255, 255, 255, 0.7);
