@@ -252,6 +252,7 @@ footer {
   background-image: url(../img/134.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
