@@ -5,7 +5,7 @@
   --marrom-terra: #8b4513;
   --texto-escuro: #333333;
   --texto-claro: #ffffff;
-  --navbar-height: 70px;
+  --navbar-height: 80px;
 }
 
 * {
@@ -57,12 +57,7 @@ section {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: rgba(
-    46,
-    125,
-    50,
-    0.95
-  ); /* Verde com um pouco de transparência */
+  background-color: #b0c7b5;
   backdrop-filter: blur(5px);
   z-index: 1000;
   height: var(--navbar-height);
@@ -83,6 +78,13 @@ section {
   text-decoration: none;
 }
 
+.logo_menu {
+  padding-top: 5%;
+  max-height: 80px;
+  height: 95%;
+  width: auto;
+}
+
 .nav-links {
   list-style: none;
   display: flex;
@@ -93,7 +95,7 @@ section {
 }
 
 .nav-links a {
-  color: var(--texto-claro);
+  color: var(--texto-escuro);
   text-decoration: none;
   font-size: 1rem;
   padding: 5px 0;
@@ -108,7 +110,7 @@ section {
   left: 0;
   width: 0;
   height: 2px;
-  background-color: var(--bege-fundo);
+  background-color: var(--marrom-terra);
   transition: width 0.3s;
 }
 
@@ -118,14 +120,14 @@ section {
 }
 
 .login-btn {
-  background-color: var(--marrom-terra);
+  background-color: var(--verde-escuro);
   padding: 8px 20px;
   border-radius: 5px;
   transition: background-color 0.3s;
 }
 
 .login-btn:hover {
-  background-color: #a0522d; /* Marrom um pouco mais claro */
+  background-color: #42c442; /* Marrom um pouco mais claro */
 }
 
 .login-btn::after {
@@ -134,8 +136,8 @@ section {
 
 /* --- SEÇÃO HOME (HERO) --- */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("background.jpg") no-repeat center center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+    url("./img/761.jpg") no-repeat center center/cover;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -183,6 +185,7 @@ section {
   gap: 40px;
 }
 #sobre img {
+  padding: 20px;
   max-width: 40%;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -245,14 +248,18 @@ footer {
 
 /* --- ESTILOS PÁGINA DE LOGIN --- */
 .login-page-body {
+  background-color: (var(--verde-escuro));
+  background-image: url(./img/134.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: var(--verde-escuro);
 }
 .login-container {
-  background-color: var(--bege-fundo);
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 40px;
   border-radius: 10px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
@@ -260,6 +267,7 @@ footer {
   max-width: 400px;
   text-align: center;
 }
+
 .logo-login {
   font-size: 2.2rem;
   font-weight: bold;
@@ -268,6 +276,11 @@ footer {
   display: block;
   margin-bottom: 1rem;
 }
+
+.logo-login img {
+  max-width: 90%;
+}
+
 .login-form .form-group {
   text-align: left;
   margin-bottom: 20px;
@@ -318,5 +331,113 @@ footer {
 
   .contato-wrapper {
     flex-direction: column;
+  }
+}
+
+#hamburger-btn {
+  display: none; /* Escondido em telas grandes */
+  cursor: pointer;
+}
+
+#hamburger-btn .bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: var(--texto-claro);
+  transition: all 0.3s ease-in-out;
+}
+
+/* --- RESPONSIVIDADE --- */
+@media (max-width: 768px) {
+  /* --- AJUSTES GERAIS PARA MOBILE --- */
+  h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 2.2rem;
+  }
+  section {
+    padding: 40px 0;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+
+  /* --- NAVEGAÇÃO MOBILE --- */
+  #hamburger-btn {
+    display: block; /* Mostra o botão hambúrguer */
+  }
+
+  .nav-links {
+    display: none; /* Esconde a lista de links por padrão */
+    flex-direction: column;
+    width: 100%;
+    position: absolute;
+    top: var(--navbar-height);
+    left: 0;
+    background-color: #b0c7b5; /* Fundo sólido para o menu aberto */
+  }
+
+  /* ESTILO DO MENU QUANDO ATIVO (ABERTO) */
+  .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links li {
+    text-align: center;
+    margin: 0;
+  }
+
+  .nav-links li a {
+    padding: 1rem;
+    display: block; /* Faz o link ocupar a linha inteira */
+    width: 100%;
+  }
+
+  .nav-links li a.login-btn {
+    margin: 1rem;
+    width: auto;
+  }
+
+  .nav-links a:hover::after,
+  .nav-links a.active::after {
+    width: 50%;
+    left: 25%;
+  }
+
+  /* --- AJUSTE DAS SEÇÕES --- */
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero p {
+    font-size: 1.1rem;
+  }
+
+  #sobre .sobre-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  #sobre img {
+    max-width: 80%;
+    margin-bottom: 20px;
+  }
+
+  .contato-wrapper {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .contato-form .cta-button {
+    width: 100%;
+  }
+
+  /* --- AJUSTE PÁGINA DE LOGIN --- */
+  .login-container {
+    padding: 30px;
+    width: 90%;
   }
 }
