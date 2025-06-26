@@ -252,7 +252,6 @@ footer {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: var(--verde-escuro);
   background-image: url(../img/134.jpg);
   background-size: cover;
   background-repeat: no-repeat;
