@@ -110,7 +110,7 @@ section {
   left: 0;
   width: 0;
   height: 2px;
-  background-color: var(--bege-fundo);
+  background-color: var(--marrom-terra);
   transition: width 0.3s;
 }
 
@@ -119,15 +119,19 @@ section {
   width: 100%;
 }
 
+#btn-login {
+  width: 100px;
+}
+
 .login-btn {
-  background-color: var(--marrom-terra);
+  background-color: var(--verde-escuro);
   padding: 8px 20px;
   border-radius: 5px;
   transition: background-color 0.3s;
 }
 
 .login-btn:hover {
-  background-color: #a0522d; /* Marrom um pouco mais claro */
+  background-color: #42c442; /* Marrom um pouco mais claro */
 }
 
 .login-btn::after {
@@ -185,6 +189,7 @@ section {
   gap: 40px;
 }
 #sobre img {
+  padding: 20px;
   max-width: 40%;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
