@@ -253,9 +253,12 @@ footer {
   align-items: center;
   height: 100vh;
   background-color: var(--verde-escuro);
+  background-image: url(../img/134.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .login-container {
-  background-color: var(--bege-fundo);
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 40px;
   border-radius: 10px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
@@ -263,6 +266,7 @@ footer {
   max-width: 400px;
   text-align: center;
 }
+
 .logo-login {
   font-size: 2.2rem;
   font-weight: bold;
