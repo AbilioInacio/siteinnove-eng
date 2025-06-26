@@ -1,0 +1,204 @@
+:root {
+  --primary-color: #0A1128;
+  --white-color: #ffffff;
+  --gap: 3rem;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  color: var(--primary-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 6rem;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 5.5rem;
+}
+
+h3 {
+  font-size: 5rem;
+}
+
+h4 {
+  font-size: 4.5rem;
+}
+
+h5 {
+  font-size: 4rem;
+}
+
+h6 {
+  font-size: 3.5rem;
+}
+
+.limite-menu {
+  margin: 5px;
+}
+
+.barra-menu {
+  padding: 30px;
+}
+
+.barra-endereco{
+  justify-content:center;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1500px;
+  align-items: center;
+}
+
+.imgfachada{
+  background-image: url(./Imagens/foto-fachada.jpeg);
+  background-position: top;
+  background-size: cover;
+  border-radius: 30px;
+  width: 250px;
+  min-width: 200px;
+  min-height: 400px;
+  margin: 10px 20px;
+}
+.img2{
+  background-image: url(./Imagens/pagina_em.png);
+  background-position: top;
+  background-size: cover;
+  border-radius: 30px;
+  width: 400px;
+  min-height: 400px;
+  margin: 10px 20px;
+}
+
+.imgendereco{
+  background-image: url(./Imagens/endereço.svg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 30px;
+  width: 400px;
+  min-width: 400px;
+  min-height: 400px;
+  margin: 10px 20px;
+}
+
+.menu-adress{
+  flex-wrap: wrap;
+  list-style-type: none;
+  align-items: center;
+  text-align: center;
+}
+
+.endereco{
+  align-items: center;
+  max-width: 500px;
+  width: auto;
+  border-radius: 50px;
+  max-height: 500px;
+  margin: 10px;
+  
+}
+
+.contatos{
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 17px;
+  list-style-type: none; 
+}
+
+.divcontatos{
+  flex-direction: row;
+  background: #eeeff3;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 17px;
+  list-style-type: none;
+  flex-wrap: wrap;
+  border-radius: 30px;
+  max-width: 1350px;
+  margin: 0px 20px;
+}
+
+.bloco-contatos{
+  width: 500px ;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.menu {
+  background: green;
+  color: white;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none; 
+  border-radius: 15px;
+  padding: 10px 50px;
+  font-size: 3rem;
+  min-height: 60px;
+}
+
+li a{
+  color: white;
+  text-decoration: none;
+}
+
+.logo{
+  max-width: 400px;
+}
+.logo-inicio{
+  text-align: center;
+}
+
+.main-bg {
+  background-image: url('../img/main-bg.svg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.white-bg {
+  background: var(--white-color);
+}
+
+.main-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--gap);
+}
+
+.section {
+  min-height: 100vh;
+}
+.letras-menu{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+.imgcontatos{
+  max-width:  70px;
+
+}
+
+.midias {
+  font-size: 3rem;
+  color: rgb(53, 122, 47);
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  margin: 0px;
+}
