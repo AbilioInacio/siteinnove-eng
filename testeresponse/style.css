@@ -119,10 +119,6 @@ section {
   width: 100%;
 }
 
-#btn-login {
-  width: 100px;
-}
-
 .login-btn {
   background-color: var(--verde-escuro);
   padding: 8px 20px;
@@ -275,6 +271,11 @@ footer {
   display: block;
   margin-bottom: 1rem;
 }
+
+.logo-login img {
+  max-width: 90%;
+}
+
 .login-form .form-group {
   text-align: left;
   margin-bottom: 20px;
@@ -371,12 +372,7 @@ footer {
     position: absolute;
     top: var(--navbar-height);
     left: 0;
-    background-color: rgba(
-      46,
-      125,
-      50,
-      0.98
-    ); /* Fundo sólido para o menu aberto */
+    background-color: #b0c7b5; /* Fundo sólido para o menu aberto */
   }
 
   /* ESTILO DO MENU QUANDO ATIVO (ABERTO) */
