@@ -361,10 +361,15 @@ footer {
 @media (max-width: 768px) {
   /* --- AJUSTES GERAIS PARA MOBILE --- */
   h1 {
-    font-size: 2.5rem;
-  }
-  h2 {
     font-size: 2.2rem;
+  }
+
+  .hero-content h1 {
+    padding: 5px;
+  }
+
+  h2 {
+    font-size: 2rem;
   }
   section {
     padding: 40px 0;
