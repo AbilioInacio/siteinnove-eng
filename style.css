@@ -1,3 +1,4 @@
+@import "./animation.css";
 /* --- CONFIGURAÇÕES GERAIS E PALETA DE CORES --- */
 :root {
   --verde-escuro: #2e7d32;
@@ -314,6 +315,19 @@ footer {
   margin-top: 20px;
   color: var(--marrom-terra);
   text-decoration: none;
+}
+
+.btn-whatsapp {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  background-color: transparent;
+  border: transparent;
+  animation: pulo 0.5s ease-in-out infinite;
+}
+
+.btn-whatsapp:hover {
+  animation: vibrar 0.2s ease-in-out infinite;
 }
 
 /* --- RESPONSIVIDADE --- */
