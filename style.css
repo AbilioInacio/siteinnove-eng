@@ -242,13 +242,8 @@ section {
 }
 
 .adress-map iframe {
-  width: 90vw;
+  width: 100vw;
   height: 450px;
-  border-radius: 20px;
-  margin: 5px;
-  border-left: 5px solid var(--verde-escuro);
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s, box-shadow 0.3s;
 }
 
 /* --- FOOTER --- */
@@ -438,6 +433,20 @@ footer {
   #sobre img {
     max-width: 80%;
     margin-bottom: 20px;
+  }
+
+  .adress-map {
+    padding: 10px;
+  }
+
+  .adress-map iframe {
+    width: 90vw;
+    height: 450px;
+    border-radius: 20px;
+    margin: 5px;
+    border-left: 5px solid var(--verde-escuro);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s, box-shadow 0.3s;
   }
 
   .contato-wrapper {
