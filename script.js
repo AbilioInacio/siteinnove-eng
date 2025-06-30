@@ -65,9 +65,9 @@ document.addEventListener("DOMContentLoaded", function () {
       console.log(mensagem);
 
       const data = {
-        service_id: process.env.SEU_SERVICE_ID,
-        template_id: process.env.SEU_TEMPLATE_ID,
-        user_id: process.env.SUA_PUBLIC_KEY,
+        service_id: process.env.SERVICE_ID,
+        template_id: process.env.TEMPLATE_ID,
+        user_id: process.env.PUBLIC_KEY,
         template_params: {
           username: "Site Innove",
           message: mensagem,
@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
           alert("Erro: " + JSON.stringify(error));
         });
 
-      emailjs.init(process.env.SUA_PUBLIC_KEY);
+      emailjs.init(process.env.PUBLIC_KEY);
     } else {
       alert("preencha os campos");
       console.log("preencha os campos");
