@@ -43,4 +43,53 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     });
   });
+
+  const btnEmail = document.getElementById("btnContato");
+
+  btnEmail.addEventListener("click", (event) => {
+    event.preventDefault();
+    console.clear();
+
+    const nome = document.getElementById("nome").value;
+    const email = document.getElementById("email").value;
+    const msg = document.getElementById("mensagem").value;
+
+    if (nome != "" && email != "") {
+      const mensagem =
+        "Olá, Meu nome é " +
+        nome +
+        "\nmeu email é: " +
+        email +
+        "\nmensagem: " +
+        msg;
+      console.log(mensagem);
+
+      const data = {
+        service_id: process.env.SEU_SERVICE_ID,
+        template_id: process.env.SEU_TEMPLATE_ID,
+        user_id: process.env.SUA_PUBLIC_KEY,
+        template_params: {
+          username: "Site Innove",
+          message: mensagem,
+        },
+      };
+
+      $.ajax("https://api.emailjs.com/api/v1.0/email/send", {
+        type: "POST",
+        data: JSON.stringify(data),
+        contentType: "application/json",
+      })
+        .done(function () {
+          alert("Seu e-mail foi enviado!");
+        })
+        .fail(function (error) {
+          alert("Erro: " + JSON.stringify(error));
+        });
+
+      emailjs.init(process.env.SUA_PUBLIC_KEY);
+    } else {
+      alert("preencha os campos");
+      console.log("preencha os campos");
+    }
+  });
 });

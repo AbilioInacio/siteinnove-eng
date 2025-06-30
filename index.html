@@ -1050,20 +1050,22 @@
               </p>
             </div>
             <form class="contato-form">
-              <input type="text" name="nome" placeholder="Seu Nome" required />
+              <input type="text" id="nome" placeholder="Seu Nome" required />
               <input
                 type="email"
-                name="email"
-                placeholder="Seu Melhor E-mail"
+                id="email"
+                placeholder="Seu Melhor Telefone ou E-mail"
                 required
               />
               <textarea
-                name="mensagem"
+                id="mensagem"
                 rows="5"
                 placeholder="Sua Mensagem"
                 required
               ></textarea>
-              <button type="submit" class="cta-button">Enviar Mensagem</button>
+              <button type="submit" class="cta-button" id="btnContato">
+                Enviar Mensagem
+              </button>
             </form>
           </div>
         </div>
@@ -1089,6 +1091,8 @@
       </div>
     </footer>
 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
