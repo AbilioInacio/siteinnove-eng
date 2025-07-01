@@ -1,5 +1,3 @@
-require("dotenv").config();
-
 document.addEventListener("DOMContentLoaded", function () {
   // --- LÓGICA DO SCROLL SPY (JÁ EXISTENTE) ---
   const sections = document.querySelectorAll("section[id]");
