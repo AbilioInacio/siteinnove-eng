@@ -56,6 +56,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const email = document.getElementById("email").value;
     const msg = document.getElementById("mensagem").value;
 
+    const service = "service_05to81p";
+    const template = "template_k7fk304";
+    const user = "lXxeveM7Aru2-xXuf";
+
     if (nome != "" && email != "") {
       const mensagem =
         "Olá, Meu nome é " +
@@ -67,9 +71,9 @@ document.addEventListener("DOMContentLoaded", function () {
       console.log(mensagem);
 
       const data = {
-        service_id: process.env.SERVICE_ID,
-        template_id: process.env.TEMPLATE_ID,
-        user_id: process.env.USER_ID,
+        service_id: service,
+        template_id: template,
+        user_id: user,
         template_params: {
           username: "Site Innove",
           message: mensagem,
@@ -88,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
           alert("Erro: " + JSON.stringify(error));
         });
 
-      emailjs.init(process.env.USER_ID);
+      emailjs.init(user);
     } else {
       alert("preencha os campos");
       console.log("preencha os campos");
