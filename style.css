@@ -184,6 +184,7 @@ section {
   display: flex;
   align-items: center;
   gap: 40px;
+  text-align: justify;
 }
 #sobre img {
   padding: 20px;
