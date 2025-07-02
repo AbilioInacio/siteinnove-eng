@@ -201,3 +201,78 @@ h2 {
   color: #00c6ff;
   margin-bottom: 1rem;
 }
+
+/* ========================================= */
+/* --- Media Queries para Responsividade --- */
+/* ========================================= */
+
+/* Estilos para telas com largura máxima de 768px (tablets e celulares) */
+@media (max-width: 768px) {
+  /* Ajusta o container para ocupar mais espaço na tela */
+  .container {
+    width: 95%;
+    padding: 0 15px;
+  }
+
+  /* Reduz o tamanho da fonte do título principal */
+  .main-header h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+
+  .main-header p {
+    font-size: 0.9rem;
+  }
+
+  /* Reduz o tamanho dos subtítulos */
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  /* A grade do sumário já é responsiva graças ao 'auto-fit'. 
+     Esta regra garante que os itens não fiquem muito apertados em telas pequenas. */
+  .sumario-grid {
+    grid-template-columns: 1fr; /* Força uma única coluna */
+    gap: 20px;
+  }
+
+  /* Ajusta o padding interno das seções para não desperdiçar espaço */
+  .page-content,
+  .curiosidades {
+    padding: 20px;
+  }
+
+  /* Ajusta a fonte das perguntas no FAQ para melhor leitura */
+  .faq-question {
+    font-size: 1rem;
+    padding-right: 25px; /* Garante espaço para o sinal de '+' */
+  }
+
+  .faq-answer p {
+    font-size: 0.95rem;
+  }
+
+  /* Reduz a fonte do rodapé para evitar quebras de linha ruins */
+  .footer-content h3 {
+    font-size: 1.2rem;
+  }
+  .footer-content p {
+    font-size: 0.9rem;
+  }
+}
+
+/* Estilos para telas muito pequenas, com largura máxima de 480px (celulares menores) */
+@media (max-width: 480px) {
+  .main-header h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  .back-link {
+    padding: 8px 12px;
+    font-size: 0.9rem;
+  }
+}
