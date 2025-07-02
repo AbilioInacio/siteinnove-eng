@@ -204,9 +204,15 @@ section {
   gap: 30px;
 }
 
+.servico-card a {
+  text-decoration: none;
+  display: block;
+  padding: 25px;
+  color: (var(--texto-escuro));
+}
+
 .servico-card {
   background-color: var(--bege-fundo);
-  padding: 30px;
   border-radius: 10px;
   border-left: 5px solid var(--verde-escuro);
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
