@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "prompt-inicial.txt",
     "base-conhecimento-geral.txt",
     "base-conhecimento-licenciamento.txt",
+    "base-conhecimento-geral.txt",
   ];
 
   // Função principal que inicializa o chat
