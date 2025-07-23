@@ -1,0 +1,65 @@
+#INICIO_BASE_DE_CONHECIMENTO_CONSOLES
+
+### TOPICO: PlayStation (Sony)
+
+#### ASSUNTO: Geracao Atual - PlayStation 5
+- MODELOS: Existem dois modelos principais do PlayStation 5 (PS5):
+  - PS5 Edicao Padrao: Vem com um leitor de discos Blu-Ray Ultra HD. Permite jogar midia fisica (jogos em disco de PS5 e PS4) e assistir a filmes em Blu-Ray.
+  - PS5 Edicao Digital: Nao possui leitor de discos. Todos os jogos e midias devem ser comprados e baixados pela PlayStation Store. Geralmente e um pouco mais barato e mais fino.
+- ESPECIFICACOES_CHAVE:
+  - SSD Ultrarrapido: Reduz drasticamente os tempos de carregamento dos jogos. E uma das maiores vantagens da nova geracao.
+  - Controle DualSense: Oferece uma experiencia mais imersiva com Feedback Haptico (vibracoes mais precisas e localizadas) e Gatilhos Adaptaveis (a resistencia dos botoes L2/R2 muda conforme a acao no jogo, como puxar um arco).
+  - Audio 3D (Tempest Engine): Cria um som mais envolvente, permitindo identificar a direcao dos sons no jogo com mais clareza usando fones de ouvido compativeis.
+  - Graficos: Suporta jogos em resolucao 4K, ate 120 quadros por segundo (FPS) e tecnologia Ray Tracing para iluminacao e reflexos mais realistas.
+- RETROCOMPATIBILIDADE: O PS5 e retrocompativel com 99% dos jogos de PlayStation 4. Muitos jogos de PS4 recebem melhorias (Game Boost) para rodar com melhor desempenho no PS5, como taxas de quadros mais altas ou estaveis. Nao e retrocompativel com jogos de PS3, PS2 ou PS1 por padrao (apenas via streaming no plano PS Plus Premium).
+- SERVICO_DE_ASSINATURA: PlayStation Plus (PS Plus) com varios niveis (Essential, Extra, Premium), oferecendo jogos mensais, modo multiplayer online e um catalogo de jogos para baixar.
+
+#### ASSUNTO: Geracao Anterior - PlayStation 4
+- MODELOS: A geracao do PlayStation 4 (PS4) teve tres modelos principais:
+  - PS4 (Original/FAT): O primeiro modelo, lancado em 2013.
+  - PS4 Slim: Uma versao mais fina, leve e energeticamente eficiente do modelo original, lancada em 2016. Substituiu o modelo FAT.
+  - PS4 Pro: Uma versao mais potente, lancada em 2016. Capaz de rodar jogos em resolucao 4K (dinamico ou via upscaling) e com melhorias de desempenho (maior FPS) em jogos compativeis. Era o modelo topo de linha da geracao.
+- BIBLIOTECA_DE_JOGOS: Possui uma biblioteca gigantesca e aclamada, com exclusivos de peso como The Last of Us Part II, God of War (2018), Horizon Zero Dawn, Marvel's Spider-Man e Uncharted 4.
+- CONTROLE: DualShock 4, famoso pelo seu painel de toque (touchpad) e barra de luz. E compativel com o PS5, mas so pode ser usado para jogar jogos de PS4 no console novo.
+- FIM_DE_VIDA: Embora a producao de novos jogos esteja diminuindo, muitos lancamentos importantes (como God of War Ragnarok) sairam para PS4 e PS5 (cross-gen). A base de jogadores ainda e muito grande.
+
+### TOPICO: Xbox (Microsoft)
+
+#### ASSUNTO: Geracao Atual - Xbox Series
+- MODELOS: A Microsoft lancou dois consoles com propostas diferentes:
+  - Xbox Series X: O console mais potente do mercado. Apelidado de "monolito", foi projetado para performance maxima, com foco em jogos em 4K nativo a 60 FPS (podendo chegar a 120 FPS). Possui leitor de disco 4K Blu-Ray e 1TB de armazenamento SSD. E o modelo para quem busca a melhor qualidade grafica e desempenho.
+  - Xbox Series S: Um console menor, mais barato e totalmente digital (sem leitor de disco). Foi projetado para rodar os mesmos jogos da nova geracao, mas com a meta de resolucao em 1440p (com upscaling para 4K) e 60 FPS. Possui um SSD de 512GB (recentemente lancado modelo de 1TB em preto). E uma excelente porta de entrada para a nova geracao.
+- ESPECIFICACOES_CHAVE:
+  - Xbox Velocity Architecture: Combinacao do SSD customizado com o software que permite carregamentos rapidos e a funcao Quick Resume.
+  - Quick Resume: Permite alternar entre varios jogos abertos e continuar exatamente de onde parou em segundos, sem precisar carregar o jogo do zero.
+  - Smart Delivery (Entrega Inteligente): Garante que voce sempre jogara a melhor versao do jogo para o seu console. Se voce comprar um jogo compativel no Xbox One e depois migrar para um Series X/S, voce recebera a versao otimizada gratuitamente.
+- RETROCOMPATIBILIDADE: E o ponto mais forte do Xbox. Os consoles Series X|S sao retrocompativeis com milhares de jogos de Xbox One, centenas de jogos de Xbox 360 e uma selecao de jogos do Xbox Original. Muitos desses jogos antigos recebem melhorias automaticas, como FPS Boost (dobrando a taxa de quadros) e Auto HDR.
+- SERVICO_DE_ASSINATURA: Xbox Game Pass. Considerado o melhor servico do mercado. Oferece acesso a uma biblioteca rotativa de centenas de jogos (incluindo todos os lancamentos da Microsoft Studios no dia do lancamento) por uma mensalidade.
+
+#### ASSUNTO: Geracao Anterior - Xbox One
+- MODELOS: A familia Xbox One tambem teve tres modelos:
+  - Xbox One (Original): O primeiro modelo, lancado em 2013. Era grande e vinha com o sensor de movimentos Kinect em alguns pacotes.
+  - Xbox One S: Lancado em 2016, era uma versao 40% menor, com fonte de energia interna e capacidade de reproduzir videos em 4K (streaming e Blu-Ray). E a versao padrao da geracao.
+  - Xbox One X: Lancado em 2017, foi o console mais poderoso de sua geracao, capaz de rodar jogos em 4K nativo. Era o concorrente direto do PS4 Pro.
+- CARACTERISTICAS: Introduziu a forte politica de retrocompatibilidade da Microsoft e a integracao com o ecossistema Windows. A franquia principal e Halo, alem de Forza (corrida) e Gears of War (tiro em terceira pessoa).
+- FIM_DE_VIDA: A producao dos consoles Xbox One foi descontinuada em 2020 para focar na nova geracao. Porem, gracas ao Game Pass e ao xCloud (jogo na nuvem), donos de Xbox One ainda podem jogar muitos titulos da nova geracao via streaming.
+
+### TOPICO: Nintendo
+
+#### ASSUNTO: Geracao Atual - Nintendo Switch
+- CONCEITO: E um console hibrido. Pode ser jogado em modo TV (conectado a uma televisao atraves de uma dock) e em modo portatil. Os controles, chamados Joy-Con, podem ser destacados da tela para jogar de varias formas.
+- MODELOS: Existem tres versoes do console:
+  - Nintendo Switch (Padrao): O modelo original lancado em 2017. Uma versao com bateria melhorada foi lancada em 2019 (caixa vermelha).
+  - Nintendo Switch Lite: Lancado em 2019, e uma versao exclusivamente portatil. E menor, mais leve e mais barata. Os controles sao fixos no corpo do console e ele nao pode ser conectado a TV.
+  - Nintendo Switch - Modelo OLED: Lancado em 2021. Possui uma tela OLED de 7 polegadas, que oferece cores muito mais vibrantes e contraste superior. Tambem vem com o dobro de armazenamento interno (64GB), audio aprimorado e uma nova dock com porta de rede LAN embutida. O desempenho nos jogos e o mesmo do modelo padrao.
+- EXCLUSIVOS: A forca da Nintendo esta em suas franquias exclusivas, que nao sao encontradas em outras plataformas. Exemplos incluem The Legend of Zelda: Breath of the Wild e Tears of the Kingdom, Super Mario Odyssey, Animal Crossing: New Horizons, Pokemon Scarlet & Violet e Mario Kart 8 Deluxe.
+- CONTROLES: Os Joy-Con possuem sensores de movimento e uma funcao de vibracao chamada "HD Rumble". Podem ser usados acoplados ao console, separados (um em cada mao) ou na horizontal como um mini controle.
+- SERVICO_DE_ASSINATURA: Nintendo Switch Online. Necessario para jogar online, oferece acesso a uma biblioteca de jogos classicos de NES, Super Nintendo e Game Boy. O "Pacote Adicional" expande o servico com jogos de Nintendo 64, Game Boy Advance e SEGA Mega Drive, alem de acesso a DLCs de jogos como Mario Kart 8 e Animal Crossing.
+
+#### ASSUNTO: Geracao Anterior - Wii U
+- CONCEITO: Foi o sucessor do Wii, lancado em 2012. A principal inovacao era o GamePad, um controle grande com uma tela de toque embutida, que permitia jogar sem a TV (Off-TV Play) ou ter informacoes adicionais na segunda tela.
+- DESEMPENHO_COMERCIAL: O Wii U foi um fracasso comercial para a Nintendo. A proposta de marketing foi confusa (muitos pensaram que era apenas um acessorio para o Wii) e teve pouco apoio de desenvolvedoras terceiras.
+- LEGADO: Apesar do fracasso, o Wii U foi o berco de muitos jogos excelentes que foram posteriormente relancados com grande sucesso no Nintendo Switch. Jogos como Mario Kart 8, Super Mario 3D World, Donkey Kong Country: Tropical Freeze e Pikmin 3 sao todos originalmente do Wii U. Ele serviu como um "ensaio" para o conceito hibrido que foi totalmente realizado com o Switch.
+- FIM_DE_VIDA: Foi descontinuado em 2017. Sua loja digital (eShop) foi fechada em 2023, tornando muito dificil adquirir seus jogos digitalmente hoje em dia.
+
+#FIM_BASE_DE_CONHECIMENTO_CONSOLES

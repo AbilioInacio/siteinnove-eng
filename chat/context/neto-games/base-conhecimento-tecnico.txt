@@ -1,0 +1,95 @@
+#INICIO_BASE_DE_CONHECIMENTO_CONSOLES
+
+### TOPICO: PlayStation (Sony)
+
+#### ASSUNTO: Geracao Atual - PlayStation 5
+- MODELOS: Edicao Padrao (com leitor de disco Blu-Ray) e Edicao Digital (sem leitor de disco).
+- ESPECIFICACOES_CHAVE: SSD Ultrarrapido, Controle DualSense com feedback haptico e gatilhos adaptaveis, Audio 3D Tempest.
+- RETROCOMPATIBILIDADE: Retrocompativel com 99% dos jogos de PlayStation 4. Nao compativel com midia fisica de PS3, PS2 ou PS1.
+- SERVICO_DE_ASSINATURA: PlayStation Plus (Essential, Extra, Premium).
+- ESPECIFICACOES_TECNICAS:
+  - PROCESSADOR (CPU): AMD Zen 2 customizado com 8 nucleos e 16 threads, frequencia variavel de ate 3.5 GHz.
+  - PLACA_GRAFICA (GPU): AMD RDNA 2 customizada com 36 unidades de computacao (CUs), frequencia variavel de ate 2.23 GHz. Potencia de 10.3 Teraflops.
+  - TECNOLOGIAS_GRAFICAS: Aceleracao de Ray Tracing por hardware, suporte a 4K nativo e ate 120 FPS.
+  - MEMORIA_RAM: 16 GB GDDR6 com largura de banda de 448 GB/s.
+  - ARMAZENAMENTO: SSD NVMe customizado de 825 GB com velocidade de leitura de 5.5 GB/s (dados brutos). Expansivel via slot NVMe M.2.
+  - TECNOLOGIAS_EMBARCADAS: Tempest 3D AudioTech para audio posicional, motor de descompressao de dados Kraken para carregamento mais rapido, interface do controle DualSense.
+
+#### ASSUNTO: Geracao Anterior - PlayStation 4
+- MODELOS: PS4 "FAT" (Original), PS4 Slim (mais fino e economico), PS4 Pro (mais potente).
+- BIBLIOTECA_DE_JOGOS: Vasta biblioteca com grandes exclusivos como The Last of Us Part II, God of War (2018), e Marvel's Spider-Man.
+- CONTROLE: DualShock 4 com touchpad e barra de luz.
+- ESPECIFICACOES_TECNICAS (PS4 PRO):
+  - PROCESSADOR (CPU): AMD Jaguar customizado com 8 nucleos de 2.1 GHz.
+  - PLACA_GRAFICA (GPU): AMD Radeon customizada (baseada em Polaris) com 36 CUs de 911 MHz. Potencia de 4.2 Teraflops.
+  - MEMORIA_RAM: 8 GB GDDR5 (+ 1 GB DDR3 para o sistema operacional).
+  - ARMAZENAMENTO: Disco rigido (HDD) de 1 TB.
+  - TECNOLOGIAS_EMBARCADAS: Foco em resolucao 4K (usando a tecnica de checkerboard rendering), "Boost Mode" para melhorar performance de jogos antigos.
+- ESPECIFICACOES_TECNICAS (PS4 SLIM / PADRAO):
+  - PROCESSADOR (CPU): AMD Jaguar customizado com 8 nucleos de 1.6 GHz.
+  - PLACA_GRAFICA (GPU): AMD Radeon customizada (baseada em GCN) com 18 CUs de 800 MHz. Potencia de 1.84 Teraflops.
+  - MEMORIA_RAM: 8 GB GDDR5.
+  - ARMAZENAMENTO: Disco rigido (HDD) de 500 GB ou 1 TB.
+
+### TOPICO: Xbox (Microsoft)
+
+#### ASSUNTO: Geracao Atual - Xbox Series
+- MODELOS: Xbox Series X (topo de linha, com leitor de disco, 4K nativo) e Xbox Series S (digital, menor, focado em 1440p).
+- ESPECIFICACOES_CHAVE: Xbox Velocity Architecture, Quick Resume, Smart Delivery.
+- RETROCOMPATIBILIDADE: A maior do mercado. Compativel com jogos de Xbox One, Xbox 360 e Xbox Original, muitos com melhorias automaticas (FPS Boost, Auto HDR).
+- SERVICO_DE_ASSINATURA: Xbox Game Pass (considerado o principal atrativo do ecossistema).
+- ESPECIFICACOES_TECNICAS (XBOX SERIES X):
+  - PROCESSADOR (CPU): AMD Zen 2 customizado com 8 nucleos e 16 threads, 3.8 GHz (ou 3.6 GHz com multithreading).
+  - PLACA_GRAFICA (GPU): AMD RDNA 2 customizada com 52 CUs de 1.825 GHz. Potencia de 12.15 Teraflops.
+  - TECNOLOGIAS_GRAFICAS: DirectX Raytracing (DXR), Variable Rate Shading (VRS), Mesh Shading, suporte a 4K nativo e ate 120 FPS.
+  - MEMORIA_RAM: 16 GB GDDR6 (10 GB com 560 GB/s de banda e 6 GB com 336 GB/s).
+  - ARMAZENAMENTO: SSD NVMe customizado de 1 TB com velocidade de 2.4 GB/s (bruto). Expansivel com cartoes de memoria proprietarios e HD externo USB.
+  - TECNOLOGIAS_EMBARCADAS: Xbox Velocity Architecture, Quick Resume, Smart Delivery, Dolby Vision e Dolby Atmos para jogos.
+- ESPECIFICACOES_TECNICAS (XBOX SERIES S):
+  - PROCESSADOR (CPU): AMD Zen 2 customizado com 8 nucleos e 16 threads, 3.6 GHz (ou 3.4 GHz com multithreading).
+  - PLACA_GRAFICA (GPU): AMD RDNA 2 customizada com 20 CUs de 1.565 GHz. Potencia de 4 Teraflops.
+  - MEMORIA_RAM: 10 GB GDDR6 (8 GB com 224 GB/s e 2 GB com 56 GB/s).
+  - ARMAZENAMENTO: SSD NVMe customizado de 512 GB ou 1 TB.
+  - TECNOLOGIAS_EMBARCADAS: As mesmas do Series X, porem com alvo de performance em resolucao menor (1440p).
+
+#### ASSUNTO: Geracao Anterior - Xbox One
+- MODELOS: Xbox One "FAT" (Original), Xbox One S (menor, com 4K para midia), Xbox One X (mais potente, 4K para jogos).
+- CARACTERISTICAS: Introduziu o Game Pass e a forte politica de retrocompatibilidade. Franquias principais: Halo, Forza, Gears of War.
+- ESPECIFICACOES_TECNICAS (XBOX ONE X):
+  - PROCESSADOR (CPU): AMD Jaguar Evolved customizado com 8 nucleos de 2.3 GHz.
+  - PLACA_GRAFICA (GPU): AMD Radeon customizada com 40 CUs de 1.172 GHz. Potencia de 6 Teraflops.
+  - MEMORIA_RAM: 12 GB GDDR5.
+  - ARMAZENAMENTO: Disco rigido (HDD) de 1 TB.
+- ESPECIFICACOES_TECNICAS (XBOX ONE S):
+  - PROCESSADOR (CPU): AMD Jaguar customizado com 8 nucleos de 1.75 GHz.
+  - PLACA_GRAFICA (GPU): AMD Radeon customizada com 12 CUs de 914 MHz. Potencia de 1.4 Teraflops.
+  - MEMORIA_RAM: 8 GB DDR3.
+  - ARMAZENAMENTO: Disco rigido (HDD) de 500 GB, 1 TB ou 2 TB.
+
+### TOPICO: Nintendo
+
+#### ASSUNTO: Geracao Atual - Nintendo Switch
+- CONCEITO: Console hibrido (modo TV e modo portatil).
+- MODELOS: Switch Padrao (bateria melhorada na versao de caixa vermelha), Switch Lite (apenas portatil), Switch Modelo OLED (tela superior, mais armazenamento, dock melhorada).
+- EXCLUSIVOS: A forca do console. The Legend of Zelda, Super Mario, Animal Crossing, Pokemon.
+- SERVICO_DE_ASSINATURA: Nintendo Switch Online (+ Pacote Adicional com jogos de N64, Mega Drive, etc).
+- ESPECIFICACOES_TECNICAS (TODOS OS MODELOS):
+  - PROCESSADOR (SOC - System on a Chip): NVIDIA Tegra X1 customizado, contendo a CPU e a GPU em um unico chip.
+  - CPU: ARM 4 Cortex-A57 nucleos.
+  - GPU: Arquitetura Maxwell com 256 nucleos CUDA.
+  - MEMORIA_RAM: 4 GB LPDDR4.
+  - ARMAZENAMENTO: 32 GB (Padrao/Lite) ou 64 GB (OLED) de memoria flash interna. Expansivel via cartoes microSD de ate 2 TB.
+  - TELA: LCD de 6.2" (Padrao), LCD de 5.5" (Lite), OLED de 7" (Modelo OLED).
+  - TECNOLOGIAS_EMBARCADAS: Joy-Con com HD Rumble (vibracao de alta definicao) e Camera de Movimento IR (infravermelho), design hibrido.
+
+#### ASSUNTO: Geracao Anterior - Wii U
+- CONCEITO: Console de mesa com um controle em formato de tablet (GamePad) que funcionava como segunda tela.
+- LEGADO: Fracasso comercial, mas foi o berco de muitos jogos de sucesso que foram portados para o Switch (ex: Mario Kart 8).
+- ESPECIFICACOES_TECNICAS:
+  - PROCESSADOR (CPU): IBM PowerPC "Espresso" Tri-Core.
+  - PLACA_GRAFICA (GPU): AMD Radeon "Latte".
+  - MEMORIA_RAM: 2 GB DDR3 (1 GB para jogos, 1 GB para o sistema).
+  - ARMAZENAMENTO: Memoria flash interna de 8 GB (Branco) ou 32 GB (Preto).
+  - TECNOLOGIAS_EMBARCADAS: Jogo assimetrico com o GamePad, Off-TV Play (jogar usando apenas a tela do controle).
+
+#FIM_BASE_DE_CONHECIMENTO_CONSOLES

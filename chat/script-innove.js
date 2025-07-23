@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
     try {
       // ALTERADO: Lógica de carregamento para separar os contextos
       for (const fileName of contextFileNames) {
-        const response = await fetch(`./context/${fileName}`);
+        const response = await fetch(`./context/ambiental/${fileName}`);
         if (!response.ok) {
           throw new Error(`Não foi possível encontrar o arquivo: ${fileName}`);
         }
