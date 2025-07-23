@@ -1,183 +1,131 @@
+/* Estilos Base (Desktop) */
 body {
   font-family: sans-serif;
-  margin: 0;
-  background-color: #f4f4f4;
+  background-color: #f4f4f9;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-}
-
-.hidden {
-  display: none;
-}
-
-/* Tela de Chave de API */
-#api-key-screen {
-  text-align: center;
-  padding: 20px;
-}
-
-.api-key-container {
-  background-color: white;
-  padding: 40px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  max-width: 400px;
-  width: 100%;
-}
-
-#api-key-input {
-  width: calc(100% - 22px);
-  padding: 10px;
-  margin-bottom: 20px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
-
-.context-container {
-  margin-bottom: 20px;
-}
-
-#context-files-input {
-  display: block;
-  margin: 10px auto;
-}
-
-#start-chat-btn {
-  background-color: #007bff;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-}
-
-#start-chat-btn:hover {
-  background-color: #0056b3;
-}
-
-.error-message {
-  color: red;
-  margin-top: 10px;
-}
-
-/* Tela de Chat */
-#chat-screen {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  margin: 0;
+  /* Adicionado para uma transição suave ao redimensionar */
+  transition: background-color 0.3s ease;
 }
 
 .chat-container {
-  width: 100%;
-  max-width: 600px;
-  height: 100%;
-  max-height: 800px;
-  background-color: white;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  height: 600px;
+  background-color: #fff;
   border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
+  transition: all 0.3s ease; /* Transição para redimensionamento */
 }
 
 .chat-header {
-  background-color: #007bff;
+  background-color: #4a90e2;
   color: white;
   padding: 15px;
   text-align: center;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
+  transition: border-radius 0.3s ease; /* Transição para os cantos */
 }
 
-.chat-box {
+.chat-messages {
   flex-grow: 1;
-  padding: 20px;
+  padding: 15px;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
+  gap: 10px;
 }
 
-.chat-message {
-  margin-bottom: 15px;
-  display: flex;
-  flex-direction: column;
+.message {
+  padding: 10px 15px;
+  border-radius: 18px;
+  max-width: 80%;
+  word-wrap: break-word;
+  line-height: 1.4;
 }
 
 .user-message {
+  background-color: #e1ffc7;
   align-self: flex-end;
-  background-color: #007bff;
-  color: white;
-  padding: 10px 15px;
-  border-radius: 15px 15px 0 15px;
-  max-width: 70%;
 }
 
 .bot-message {
+  background-color: #f1f0f0;
   align-self: flex-start;
-  background-color: #e9e9eb;
-  color: #333;
-  padding: 10px 15px;
-  border-radius: 15px 15px 15px 0;
-  max-width: 70%;
+}
+
+.chat-input-form {
+  display: flex;
+  padding: 15px;
+  border-top: 1px solid #ddd;
+  background-color: #fff;
 }
 
 .chat-input {
-  display: flex;
-  padding: 15px;
-  border-top: 1px solid #ccc;
-}
-
-#user-input {
   flex-grow: 1;
-  padding: 10px;
   border: 1px solid #ccc;
-  border-radius: 4px;
-  margin-right: 10px;
-}
-
-#send-btn {
-  background-color: #28a745;
-  color: white;
+  border-radius: 20px;
   padding: 10px 15px;
+  font-size: 16px;
+}
+
+.send-button {
+  background-color: #4a90e2;
+  color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin-left: 10px;
   cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.2s ease;
 }
 
-#send-btn:hover {
-  background-color: #218838;
+.send-button:hover {
+  background-color: #357ebd;
 }
 
-/* Responsividade */
+/* ----------------------------------- */
+/* ----- Design Responsivo (CSS) ----- */
+/* ----------------------------------- */
+
+/* Para Tablets (telas com largura máxima de 768px) */
 @media (max-width: 768px) {
   .chat-container {
-    height: 100vh;
-    max-height: 100vh;
-    border-radius: 0;
+    width: 85vw; /* 85% da largura da tela */
+    height: 80vh; /* 80% da altura da tela */
   }
-  .chat-header {
-    background-color: #007bff;
-    color: white;
-    padding: 15px;
-    text-align: center;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+}
+
+/* Para Smartphones (telas com largura máxima de 600px) */
+@media (max-width: 600px) {
+  body {
+    /* Remove o fundo cinza e o alinhamento central em telas pequenas */
+    background-color: #fff;
   }
 
-  .chat-input {
-    display: flex;
-    padding: 15px;
-    border-top: 1px solid #ccc;
-    position: fixed;
+  .chat-container {
+    /* Faz o chat ocupar 100% da tela */
+    width: 100%;
+    height: 100vh; /* 100% da altura visível da tela */
+    border-radius: 0; /* Remove as bordas arredondadas */
+    box-shadow: none; /* Remove a sombra */
+  }
+
+  .chat-header {
+    /* Remove o arredondamento apenas nos cantos superiores para preencher a tela */
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  .chat-input-form {
+    /* Garante que o formulário de entrada fique fixo na parte inferior */
+    position: sticky;
     bottom: 0;
-    width: 95vw;
   }
 }

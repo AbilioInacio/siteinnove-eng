@@ -1,9 +1,9 @@
 // Aguarda o carregamento completo da página para iniciar o script
 document.addEventListener("DOMContentLoaded", () => {
   // Elementos da interface do chat
-  const chatBox = document.getElementById("chat-messages");
-  const userInput = document.getElementById("message-input");
-  const sendBtn = document.getElementById("chat-form");
+  const chatBox = document.getElementById("chat-box");
+  const userInput = document.getElementById("user-input");
+  const sendBtn = document.getElementById("send-btn");
 
   let geminiApiKey = "";
 
