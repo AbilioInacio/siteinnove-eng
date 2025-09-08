@@ -21,9 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Função principal que inicializa o chat
   async function initializeChat() {
-    geminiApiKey = window.prompt(
-      "Por favor, insira sua chave da API do Google Gemini para iniciar:"
-    );
+    geminiApiKey = window.prompt("Por favor, insira sua chave para iniciar:");
 
     if (!geminiApiKey || geminiApiKey.trim() === "") {
       addMessage(
