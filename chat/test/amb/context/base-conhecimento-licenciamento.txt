@@ -1,0 +1,70 @@
+# BASE DE CONHECIMENTO DETALHADA - LICENCIAMENTO AMBIENTAL
+
+**Fonte de Consulta para Fernando Haddad, Especialista da Innove Engenharia**
+
+---
+
+### **1. O que é o Licenciamento Ambiental?**
+
+O Licenciamento Ambiental é um processo administrativo, executado pelo órgão ambiental competente (federal, estadual ou municipal), que tem como objetivo controlar e monitorar atividades humanas que utilizam recursos naturais ou são consideradas potencialmente poluidoras. [25, 27] Ele não é apenas uma autorização, mas um instrumento fundamental da Política Nacional do Meio Ambiente (Lei nº 6.938/81) para conciliar o desenvolvimento econômico com a preservação do meio ambiente, garantindo a sustentabilidade. [16]
+
+---
+
+### **2. Base Legal e Normativa Principal**
+
+O processo é regido por um conjunto de leis e normas. As mais importantes são:
+
+*   **Política Nacional do Meio Ambiente (Lei nº 6.938/81):** A lei-mãe que instituiu o licenciamento como um de seus principais instrumentos.
+*   **Lei de Crimes Ambientais (Lei nº 9.605/98):** Define as sanções penais e administrativas para quem descumpre a legislação ambiental, incluindo operar sem licença.
+*   **Resolução CONAMA nº 237/97:** É a norma central que regula o licenciamento. [21] Ela define as competências, as etapas do licenciamento (LP, LI, LO), os prazos de validade das licenças e lista as atividades que obrigatoriamente precisam de licenciamento. [21, 25, 27]
+*   **Resolução CONAMA nº 001/86:** Estabelece a necessidade do Estudo de Impacto Ambiental (EIA) e do respectivo Relatório de Impacto Ambiental (RIMA) para atividades de significativo impacto ambiental.
+*   **Lei Complementar nº 140/2011:** Fixa as normas de cooperação entre União, Estados, Distrito Federal e Municípios nas ações de fiscalização e licenciamento, definindo qual esfera de governo é responsável por licenciar cada tipo de empreendimento.
+
+---
+
+### **3. As Etapas do Licenciamento (Tipos de Licença)**
+
+O processo mais comum é o trifásico, composto por três licenças sequenciais:
+
+1.  **Licença Prévia (LP):** Concedida na fase de planejamento. [27] Ela atesta a viabilidade ambiental da localização e concepção do empreendimento e estabelece as condições e requisitos que deverão ser cumpridos nas próximas fases. [27] Não autoriza a instalação.
+2.  **Licença de Instalação (LI):** Autoriza o início da construção e instalação dos equipamentos. [27] Sua emissão depende da apresentação e aprovação dos projetos e planos de controle ambiental detalhados, que foram exigidos na LP.
+3.  **Licença de Operação (LO):** É a licença final. [25] Ela autoriza o início do funcionamento do empreendimento, após a vistoria do órgão ambiental para verificar se todas as exigências das licenças anteriores foram cumpridas e se os sistemas de controle ambiental estão operando adequadamente. [25]
+
+Existem também modalidades simplificadas, como a Licença Ambiental Simplificada (LAS) ou a Licença por Adesão e Compromisso (LAC), para atividades de menor porte e baixo potencial poluidor.
+
+---
+
+### **4. Quais Empreendimentos e Atividades Precisam de Licenciamento?**
+
+A lista é extensa e está detalhada no Anexo I da Resolução CONAMA 237/97, além de poder ser complementada por normas estaduais. Praticamente qualquer atividade que possa causar algum tipo de poluição ou supressão de vegetação precisa de licença.
+
+**Principais exemplos:**
+*   **Indústria:** Siderúrgicas, químicas, petroquímicas, alimentícias, têxteis, de papel e celulose.
+*   **Infraestrutura:** Construção de rodovias, ferrovias, portos, aeroportos, barragens, dutos e linhas de transmissão de energia.
+*   **Mineração:** Extração de qualquer tipo de minério (ferro, bauxita), areia, argila, etc.
+*   **Agropecuária:** Projetos de irrigação em larga escala, criação intensiva de animais (suinocultura, avicultura, pecuária confinada), projetos de assentamento e colonização.
+*   **Serviços e Comércio:** Postos de combustíveis, hospitais, hotéis, shopping centers, complexos turísticos.
+*   **Gestão de Resíduos:** Aterros sanitários, incineradores, usinas de compostagem e reciclagem.
+*   **Imóveis Rurais:** Qualquer atividade que envolva a supressão de vegetação nativa, o corte de árvores isoladas ou a intervenção em Áreas de Preservação Permanente (APP), como nascentes e margens de rios.
+
+---
+
+### **5. Consequências e Multas pela Falta de Licença Ambiental**
+
+Operar sem a devida licença ambiental é **crime ambiental** e sujeita o infrator (tanto a empresa quanto seus administradores) a três esferas de responsabilidade independentes e cumulativas: administrativa, penal e civil.
+
+**a) Sanções Administrativas (Multas e Embargos):**
+*   **Autoridade:** Aplicadas pelos órgãos ambientais (IBAMA, órgãos estaduais).
+*   **Penalidades:**
+    *   **Multa Simples:** O valor varia conforme o porte da empresa, a gravidade da infração e os antecedentes. Pelo Decreto Federal nº 6.514/2008, a multa por construir, reformar, ampliar, instalar ou fazer funcionar estabelecimentos e atividades potencialmente poluidoras sem licença varia de **R$ 500,00 a R$ 10.000.000,00**.
+    *   **Embargo da Obra ou Atividade:** Paralisação imediata de todas as operações.
+    *   **Suspensão Parcial ou Total das Atividades:** Fechamento temporário ou definitivo da empresa.
+    *   **Apreensão de Veículos e Equipamentos:** Máquinas e ferramentas usadas na infração podem ser retidas.
+
+**b) Sanções Penais (Crime Ambiental):**
+*   **Autoridade:** Aplicadas pelo Poder Judiciário.
+*   **Penalidade:** Conforme o Art. 60 da Lei de Crimes Ambientais (Lei nº 9.605/98), construir, reformar, instalar ou fazer funcionar estabelecimentos ou atividades sem licença ambiental é crime, com pena de **detenção, de um a seis meses, ou multa, ou ambas as penas cumulativamente**. A responsabilidade recai sobre os sócios, diretores e gerentes que tomaram a decisão.
+
+**c) Responsabilidade Civil (Reparação do Dano):**
+*   **Objetivo:** A obrigação de reparar integralmente qualquer dano ambiental causado.
+*   **Exemplo:** Se uma empresa poluiu um rio por operar sem licença, além de pagar a multa e seus diretores responderem criminalmente, ela será obrigada a custear todo o projeto de despoluição do rio, independentemente do custo. Esta obrigação é imprescritível, ou seja, pode ser cobrada a qualquer tempo.

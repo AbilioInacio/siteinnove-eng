@@ -1,0 +1,62 @@
+#INICIO_BASE_DE_CONHECIMENTO
+
+### TOPICO: GTA V (Grand Theft Auto V)
+- PLATAFORMAS: PlayStation 3, PS4, PS5, Xbox 360, Xbox One, Xbox Series X|S, PC.
+- GENERO: Ação e Aventura em Mundo Aberto.
+- DESCRICAO: GTA V se passa na cidade de Los Santos e tem três protagonistas: Michael, Franklin e Trevor. Além da campanha, o modo GTA Online é extremamente popular e recebe atualizações constantes.
+- VERSAO_PS4_XONE: Lançada em 2014, trouxe grandes melhorias gráficas, mais vida no mapa e um modo de visão em primeira pessoa.
+- VERSAO_PS5_XSERIES: Conhecida como "Expanded and Enhanced", lançada em 2022. Oferece gráficos melhorados com 4K e 60 FPS, Ray Tracing, carregamento super rápido e conteúdo exclusivo para o GTA Online, como a oficina Hao's Special Works. A versão de PS5 tem suporte às funções do controle DualSense.
+- RETROCOMPATIBILIDADE: A versão de PS4 funciona no PS5, e a de Xbox One funciona no Xbox Series X|S. Para ter as melhorias da nova geração, é preciso comprar a versão específica do console (PS5 ou Xbox Series).
+- TRANSFERENCIA_DE_PROGRESSO: É possível transferir seu personagem e progresso do GTA Online da geração antiga (PS4/Xbox One) para a nova (PS5/Xbox Series).
+
+### TOPICO: FIFA (agora EA Sports FC)
+- PLATAFORMAS: PlayStation, Xbox, Nintendo Switch, PC.
+- GENERO: Simulação de Futebol.
+- DESCRICAO: É a série de jogos de futebol mais famosa do mundo. A partir do "FIFA 24", a série passou a se chamar EA Sports FC. É conhecida pela jogabilidade realista e por ter as licenças oficiais de ligas, times e jogadores.
+- MODOS_PRINCIPAIS:
+  - Ultimate Team (FUT): Modo mais popular, onde você monta seu time com cartas de jogadores e compete online.
+  - Modo Carreira: Você pode gerenciar um time completo ou criar e controlar um único jogador.
+  - Pro Clubs: Jogue online com amigos, cada um controlando um jogador em uma posição específica.
+  - VOLTA Football: Modo de futebol de rua, com partidas em quadras menores e foco em dribles.
+- CROSSPLAY (JOGAR_ONLINE_ENTRE_PLATAFORMAS): Sim, mas com regras. Jogadores de PS5, Xbox Series X|S e PC podem jogar entre si. Jogadores de PS4 e Xbox One jogam em um grupo separado. O Nintendo Switch não tem cross-play com outras plataformas.
+- VERSAO_SWITCH: A versão para Nintendo Switch é geralmente uma "Legacy Edition", o que significa que ela recebe apenas atualização de uniformes e elencos, sem as novas tecnologias e modos de jogo das outras plataformas.
+
+### TOPICO: Mario (Franquia Nintendo)
+- PLATAFORMAS: Exclusivo para consoles Nintendo (NES, Super Nintendo, N64, GameCube, Wii, Wii U, Nintendo Switch e portáteis como Game Boy, DS, 3DS).
+- GENERO: Varia muito. O principal é Plataforma (2D e 3D), mas existem jogos de Corrida (Mario Kart), Festa (Mario Party), Esportes (Tênis, Golfe, Futebol) e RPG (Paper Mario, Mario & Luigi).
+- DESCRICAO: Mario é o mascote da Nintendo e um dos personagens mais famosos dos videogames. Seus jogos são conhecidos pela alta qualidade, jogabilidade criativa e diversão para todas as idades.
+- JOGOS_PRINCIPAIS_NO_SWITCH:
+  - Super Mario Odyssey: Jogo de plataforma 3D em mundo aberto.
+  - Mario Kart 8 Deluxe: Jogo de corrida de kart, um dos mais vendidos do console.
+  - Super Mario Bros. Wonder: Novo jogo de plataforma 2D com muitas inovações.
+  - Super Mario 3D World + Bowser's Fury: Pacote com dois jogos de plataforma 3D.
+  - Mario Party Superstars: Coletânea dos melhores tabuleiros e minigames da série.
+
+### TOPICO: Resident Evil 4
+- PLATAFORMAS: GameCube, PS2, PS3, PS4, PS5, Xbox 360, Xbox One, Xbox Series X|S, PC, Wii, Switch, VR (Oculus Quest 2).
+- GENERO: Survival Horror / Ação.
+- DESCRICAO: O jogador controla o agente Leon S. Kennedy em uma missão para resgatar a filha do presidente dos EUA na Espanha. O jogo revolucionou o gênero com sua câmera sobre o ombro e jogabilidade focada na ação.
+- VERSAO_ORIGINAL: Lançada em 2005, foi portada para várias plataformas. A versão disponível hoje em dia para PS4/Xbox One é uma remasterização em HD.
+- VERSAO_REMAKE (2023): Um jogo totalmente refeito do zero, lançado para PS5, PS4, Xbox Series X|S e PC.
+- DIFERENCAS_REMAKE_VS_ORIGINAL:
+  - GRAFICOS: O Remake tem gráficos fotorrealistas e uma atmosfera muito mais sombria e aterrorizante.
+  - JOGABILIDADE: A jogabilidade do Remake é mais moderna e fluida. Leon pode andar e atirar, aparar ataques com a faca (parry) e a mira foi aprimorada.
+  - HISTORIA: O Remake expande a história e dá mais profundidade a personagens como Ashley e Luis.
+  - CONTEUDO_EXTRA_REMAKE: O Remake tem uma expansão de história chamada "Separate Ways" (DLC paga), que conta a história da personagem Ada Wong.
+
+### TOPICO: God of War
+- PLATAFORMAS: Exclusivo de consoles PlayStation (PS2, PS3, PSP, PS4, PS5). Os jogos mais recentes também foram lançados para PC.
+- GENERO: Ação e Aventura.
+- DESCRICAO: Uma das principais franquias da PlayStation. A saga é dividida em duas fases: a Era Grega e a Era Nórdica.
+- ERA_GREGA:
+  - JOGOS: God of War 1, 2, 3, Ascension, Chains of Olympus e Ghost of Sparta.
+  - HISTORIA: Foca na vingança do guerreiro espartano Kratos contra os Deuses do Olimpo. Jogabilidade estilo "hack and slash" com câmera fixa.
+  - COMO_JOGAR_HOJE: A forma mais fácil é jogando "God of War III Remastered" no PS4/PS5.
+- ERA_NORDICA:
+  - JOGOS: God of War (2018) e God of War Ragnarök (2022).
+  - HISTORIA: Mostra um Kratos mais velho e maduro, agora no reino da mitologia nórdica com seu filho, Atreus. O foco na história e na relação pai-filho é muito maior.
+  - JOGABILIDADE: Totalmente reinventada. A câmera fica sobre o ombro, o combate é mais estratégico e o machado Leviatã é a arma principal.
+  - GOD_OF_WAR_2018: Disponível para PS4 e PC. Recebeu otimizações para rodar melhor no PS5.
+  - GOD_OF_WAR_RAGNAROK: Disponível para PS4 e PS5. É a conclusão da saga nórdica. A versão de PS5 tem gráficos superiores, carregamento rápido e usa os recursos do controle DualSense.
+
+#FIM_BASE_DE_CONHECIMENTO

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat de Atendimento - Innove Engenharia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- A tela do chat começa visível, mas desabilitada até o contexto carregar -->
+    <div id="chat-screen">
+        <div class="chat-container">
+            <div class="chat-header">
+                <h2>Atendimento - Fernando Haddad</h2>
+            </div>
+            <div class="chat-box" id="chat-box">
+                <!-- A mensagem de boas-vindas será injetada pelo script -->
+            </div>
+            <div class="chat-input">
+                <input type="text" id="user-input" placeholder="Carregando contexto..." disabled>
+                <button id="send-btn" disabled>Enviar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
